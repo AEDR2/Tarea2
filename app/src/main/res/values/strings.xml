@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción de contacto</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="botonSiguiente">Siguiente</string>
+    <string name="confirmacion">Confirmar Datos</string>
+    <string name="telefonoConfirmacion">Tel. </string>
+    <string name="emailConfirmacion">Email: </string>
+    <string name="descripcionConfirmacion">Descripción:</string>
+    <string name="fechaConfirmacion">Fecha de nacimiento:</string>
+    <string name="botonEditar">Editar Datos</string>
+    <string name="mensajeFaltaNombre">Ingrese un nombre</string>
+    <string name="nombreEnviar">nombre</string>
+    <string name="telefonoEnviar">telefono</string>
+    <string name="emailEnviar">email</string>
+    <string name="descripcionEnviar">descripcion</string>
+    <string name="fechaEnviar">fecha</string>
+</resources>
